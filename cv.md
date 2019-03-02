@@ -1,11 +1,11 @@
 ## Evgeni Borovik
 
->**Contact information**
+>**Contact information**  
 _email:_ anyuser@mail.ru  
 _skype:_ eugene_borovik  
 _mobile / telegram / viber:_ +375 29 682-91-32  
 
-## About
+## Summary
 Current position: Strategic Planning Director  
 Target position: Project Manager in a software development company  
 
