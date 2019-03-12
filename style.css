@@ -48,13 +48,14 @@ img {
 body {
     max-width: 1024px;
     margin: 0 auto;
+    padding-left: 20px;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 16px;
 }
 
 h1 {
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 }
 
 h2 {
@@ -62,11 +63,11 @@ h2 {
 }
 
 .paragraph {
-    margin: 20px 0px;
+    margin-bottom: 20px;
 }
 
 ul {
-    margin: 10px 0px;
+    margin-bottom: 10px;
     padding-left: 18px;
 }
 
@@ -76,14 +77,16 @@ ul {
     color: grey;
 }
 
-.contacts .paragraph {
-    margin-top: 5px;
-}
-
-h2 < .contacts {
-    font-size: 10;
+.header-contacts {
+    font-size: 18px;
+    margin-bottom: 8px;
 }
 
 .dates {
     margin-bottom: 2px;
+}
+
+.photo {
+    margin-bottom: 24px;
+    width: 300px;
 }
