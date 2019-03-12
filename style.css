@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "MavenPro";
+    src: url(./assets/fonts/MavenPro-Regular.woff) format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "MavenPro";
+    src: url(./assets/fonts/MavenPro-Bold.woff) format("woff");
+    font-style: bold;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url(./assets/fonts/Lato-Regular.woff) format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url(./assets/fonts/Lato-Bold.woff) format("woff");
+    font-style: bold;
+    font-weight: 700;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-weight: 700;
+    font-family: 'MavenPro', sans-serif;
+}
+
+img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.paragraph {
+    margin: 20px 0px;
+}
+
+ul {
+    margin: 10px 0px;
+    padding-left: 18px;
+}
+
+.contacts {
+    padding-left: 18px;
+    border-left: 3px solid grey;
+    color: grey;
+}
+
+.contacts .paragraph {
+    margin-top: 5px;
+}
+
+h2 < .contacts {
+    font-size: 10;
+}
+
+.dates {
+    margin-bottom: 2px;
+}
